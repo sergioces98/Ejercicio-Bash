@@ -1,1 +1,1 @@
-ls -A
+ git ls-files
